@@ -1,11 +1,8 @@
 ### Hi there! 👋
-My name is Pedro, I'm 23 years old software developer from <b>Belo Horizonte, Brazil</b> who works with development since 2020! <br/>
-I'm mainly interested in backend technologies and software architecture.
-
+My name is Pedro Lima, I'm 23 years old software developer from <b>Belo Horizonte, Brazil</b>. <br/>
+I'm working with software development since 2020 and am mainly interested in backend technologies and software architecture. <br/>
 
 [![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohnk&theme=nightowl&show_icons=true&count_private=true)](https://github.com/pedrohnk)
-
-
 <br/>  
 
 - 🌱 I’m currently learning about Typescript and Java!
